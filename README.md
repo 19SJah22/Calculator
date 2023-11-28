@@ -1,1 +1,1 @@
-# Calculator
+I created a basic calculator application that can perform arithmetic operations such as addition, subtraction, multiplication, and division. The calculator has a user-friendly interface and provide accurate results for user inputs.
